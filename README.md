@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=¡Hola,%20soy%20Adiel!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20&%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%"/>
 </p>
 
-### Hey, I'm Adiel! 👋
+### hey, I'm Adiel! 👋
 
 <p align="center">
   <a href="https://github.com/adiel200230"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
