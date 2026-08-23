@@ -16,7 +16,7 @@
       <h3>👋 Hey, I'm Adiel!</h3>
       <p>A passionate developer focused on building robust applications and scalable backend systems.</p>
       <ul>
-        🚀 <b>Software Engineer & Student</b> in Lima, Peru.
+        🚀 <b>Software Engineer & Student</b> in Lima, Peru.<br>
         💻 Passionate about building scalable applications and robust architectures.<br>
         🌐 Check out my repositories and projects below.<br>
         📫 How to reach me: <b>adiel200220@email.com</b>
