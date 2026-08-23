@@ -9,7 +9,7 @@
   <a href="mailto:adiel200220@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🚀 Software Engineer & Student based in Lima, Peru.
+- 🚀 Software Engineer & Student in Lima, Peru.
 - 💻 Passionate about building scalable applications and robust architectures.
 - 🌐 Visit my [GitHub Profile](https://github.com/adiel200230-gif).
 - 📫 How to reach me: **adiel200220@email.com**
