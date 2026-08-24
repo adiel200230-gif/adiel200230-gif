@@ -8,7 +8,7 @@
       <img src="https://github.com/adiel200230-gif.png" width="140px" style="border-radius: 50%;" alt="Avatar"/>
       <h3>Adiel</h3>
       <p><b>Software Engineer & Student</b></p>
-      <p>📍 Madrid, Spain</p>
+      <p>📍 Lima, Peru</p>
       <a href="https://github.com/adiel200230-gif"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
       <a href="mailto:adiel200220@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     </td>
